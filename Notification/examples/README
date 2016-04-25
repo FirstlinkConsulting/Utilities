@@ -1,0 +1,4 @@
+This directory contains simple examples that demonstrate how to use module 'Email'.
+
+In order for them to work correctly, the 'Email' module ('Email.py')
+must be in your Python module search path.

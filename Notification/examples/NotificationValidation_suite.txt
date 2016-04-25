@@ -1,0 +1,4 @@
+EmailValidationTestCase,test_RegisterTo,enable,1
+EmailValidationTestCase,test_RegisterCc,enable,1
+EmailValidationTestCase,test_RegisterBc,enable,1
+EmailValidationTestCase,test_MailSend,enable,1
